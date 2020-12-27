@@ -1,0 +1,2 @@
+_id,protocol,hpfeed_id,timestamp,source_ip,destination_ip,identifier,honeypot
+ObjectId(5e86d6a03186f206510ebb69),ICMP,ObjectId(5e86d69d3186f206510ebb68),2020-04-03T06:24:29.425Z,192.168.3.18,192.168.3.25,a759e75c-5ba0-11ea-b2d9-d05349cc2225,suricata

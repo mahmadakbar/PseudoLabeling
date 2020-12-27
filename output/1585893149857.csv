@@ -1,0 +1,6 @@
+_id,protocol,hpfeed_id,timestamp,source_ip,destination_ip,identifier,honeypot
+ObjectId(5e86cf153186f205ce82ae84),ICMP,ObjectId(5e86cf143186f205ce82ae83),2020-04-03T05:52:20.111Z,192.168.3.18,192.168.3.25,a759e75c-5ba0-11ea-b2d9-d05349cc2225,suricata
+ObjectId(5e86cf183186f205ce82ae87),ICMP,ObjectId(5e86cf163186f205ce82ae86),2020-04-03T05:52:22.158Z,192.168.3.18,192.168.3.25,a759e75c-5ba0-11ea-b2d9-d05349cc2225,suricata
+ObjectId(5e86cf1b3186f205ce82ae8b),ICMP,ObjectId(5e86cf183186f205ce82ae88),2020-04-03T05:52:24.207Z,192.168.3.18,192.168.3.25,a759e75c-5ba0-11ea-b2d9-d05349cc2225,suricata
+ObjectId(5e86cf1b3186f205ce82ae8a),ICMP,ObjectId(5e86cf1a3186f205ce82ae89),2020-04-03T05:52:26.254Z,192.168.3.18,192.168.3.25,a759e75c-5ba0-11ea-b2d9-d05349cc2225,suricata
+ObjectId(5e86cf1e3186f205ce82ae8d),ICMP,ObjectId(5e86cf1c3186f205ce82ae8c),2020-04-03T05:52:28.302Z,192.168.3.18,192.168.3.25,a759e75c-5ba0-11ea-b2d9-d05349cc2225,suricata
