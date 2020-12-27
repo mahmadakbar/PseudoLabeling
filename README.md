@@ -6,4 +6,8 @@ DDoS attacks are type of attack that the most common and very massive lately. To
 
 **Keyword**: *Machine Learning, DDos, SDN, MHN, Semi-Supervised Learning.*
 
-![alt text](https://photos.app.goo.gl/92kjLdkXGMAWMBRDA)
+full view poster image at https://photos.app.goo.gl/92kjLdkXGMAWMBRDA
+
+![alt text](https://lh3.googleusercontent.com/jDTRjPHPJ2RQynzUczVAv94lnLNptWCC5RswMvHH5EyBx_nbUaKt-Zgc4U0_wvqOxufi6i_AIxBBDGZqbAPjssAeuwB3AaFG_YJEDt3jyOkoUsKB_vrzut5vlx06vRbjX8FmNHyxzKBwGmoTpjvIUDW2yTJZm7ENv0Nl1zPPc4_xoTyiD724npZasejHHIezWgam336bebEuk5kThcr-E-gu-ajh5OlxSQw6uIUQ_3QE3-My_I-OWr_uja6fNTrpb9ICxBqDE3W99ue4yOwQPVCiuGCzl1UGg2qKVwdGAC-9poNzDCRBHwAdJjWo6jL5816hTChWzEJwwCzn-plnV5DD2b-Ubc882mSyC15MQs1i3QmSpDKIBNofNNeRBWd2aqSGXAFuUwA8BZ4_NGXIpvOL-umemYawB6qzNpEUm6FFly6zA_7v09Rvgeqo5ueA5-o9YIZ2HAPdbHiXXtS9xKE0vokctSYengrS85_vdKywVGW4gdiYt6NUB06x2CGr4rLJUiRweJom4XBESgnydjaXed311zqm5v0sWFN6Z9-785HDQzloiHkhFSO84mxbbdRgd8FAn72c1Pk3JUEvvt71CEVgNtZrtM3xbMoYupRJTtKJPfhXr_wh7NqEEmM98TAZWm2EyY5tguh4vRbEGluwzZBkz2MgbIrtgjMcskncvIrA-UTzmjsJFyJ0dw=w490-h695-no?authuser=0)
+
+
