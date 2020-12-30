@@ -10,6 +10,6 @@ text is fully visible on http://eprints.umm.ac.id/70054/
 
 full view poster image at https://photos.app.goo.gl/92kjLdkXGMAWMBRDA
 
-![alt text](https://iili.io/KeT3zB.jpg)
+![alt text](https://iili.io/KeTqqF.jpg)
 
 
