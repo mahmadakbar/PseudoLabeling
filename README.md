@@ -8,7 +8,7 @@ DDoS attacks are type of attack that the most common and very massive lately. To
 
 text is fully visible on http://eprints.umm.ac.id/70054/
 
-full view poster image at https://photos.app.goo.gl/92kjLdkXGMAWMBRDA
+full view poster image at https://iili.io/KeTqqF.jpg
 
 ![alt text](https://iili.io/KeTqqF.jpg)
 
